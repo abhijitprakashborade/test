@@ -1,9 +1,0 @@
-{{#user}
-
-Name: Abhijit Borade
-
-Skills: HTML, CSS, JS, Next.js
-
-Email: abhijitborade93@gmail.com
-
-{{/user}}
